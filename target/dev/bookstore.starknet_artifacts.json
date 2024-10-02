@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"l8ldfdjvgb170","package_name":"bookstore","contract_name":"BookStore","module_path":"bookstore::BookStore","artifacts":{"sierra":"bookstore_BookStore.contract_class.json","casm":null}}]}
